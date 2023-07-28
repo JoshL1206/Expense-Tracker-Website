@@ -1,7 +1,7 @@
 ## Expense Tracker
 The Expense Tracker is a Django web application that allows users to track and manage their personal expenses. It provides various features for adding, editing, and visualizing expenses.
 
-##Features
+## Features
 - Expense Tracking: Users can add, view, edit, and remove expenses by specifying the date, category, amount, description, and location.
 
 - Visualization: The application provides pie chart visualizations of expenses based on categories, allowing users to gain insights into their spending habits.
