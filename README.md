@@ -25,9 +25,9 @@ cd expense-tracker
 3. Install the required dependencies
 
 4. Set up the database:
-python manage.py migrate
-Create a superuser (admin) account:
-python manage.py createsuperuser
+  - python manage.py migrate
+  - Create a superuser (admin) account:
+  - python manage.py createsuperuser
 
 5. Start the development server:
 python manage.py runserver
