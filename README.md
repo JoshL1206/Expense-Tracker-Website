@@ -1,18 +1,16 @@
-# Expense Tracker Website
-
-Sure! Here are all the steps and the README.md file as one long message:
-
 Expense Tracker
-Expense Tracker is a web application built using Django that allows users to track their expenses and view visualizations of their spending habits.
+The Expense Tracker is a Django web application that allows users to track and manage their personal expenses. It provides various features for adding, editing, and visualizing expenses.
 
 Features
-User Authentication: Users can sign up, log in, and log out to access their own expense data securely.
+Expense Tracking: Users can add, view, edit, and remove expenses by specifying the date, category, amount, description, and location.
 
-Expense Tracking: Users can add, edit, and delete their expenses, providing details such as date, category, amount, description, and location.
+Visualization: The application provides pie chart visualizations of expenses based on categories, allowing users to gain insights into their spending habits.
 
-Expense Visualization: Users can view a pie chart visualization of their expenses by category.
+Filter and Sort: Users can filter expenses based on category, location, and month. Expenses can also be sorted by date or amount in ascending or descending order.
 
 Requirements
+To run this application, you need the following dependencies:
+
 Python 3.7+
 Django 3.2+
 Plotly Express (for data visualization)
