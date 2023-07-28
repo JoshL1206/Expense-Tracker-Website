@@ -34,13 +34,13 @@ python manage.py runserver
 Access the application in your web browser at http://localhost:8000.
 
 ## Usage
-Visit the home page to see your expense list and pie chart visualization.
+- Visit the home page to see your expense list and pie chart visualization.
 
-Click on "Add Expense" to add a new expense with the required details.
+- Click on "Add Expense" to add a new expense with the required details.
 
-Click on "Edit" or "Delete" next to any expense to modify or remove it.
+- Click on "Edit" or "Delete" next to any expense to modify or remove it.
 
-Use the filter and sort options to customize your expense list.
+- Use the filter and sort options to customize your expense list.
 
 ## Screenshots
 ![f1beb59c5dc9d2c8e4fd8644dc300556](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/0e47a4be-ea1d-441f-b017-30534b203c7f)
