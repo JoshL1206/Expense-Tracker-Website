@@ -29,7 +29,7 @@ python manage.py migrate
 Create a superuser (admin) account:
 python manage.py createsuperuser
 
-5.Start the development server:
+5. Start the development server:
 python manage.py runserver
 Access the application in your web browser at http://localhost:8000.
 
