@@ -43,9 +43,7 @@ Access the application in your web browser at http://localhost:8000.
 - Use the filter and sort options to customize your expense list.
 
 ## Screenshots
-![f1beb59c5dc9d2c8e4fd8644dc300556](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/0e47a4be-ea1d-441f-b017-30534b203c7f)
-![80e7df6ba5b2ce232ee593291203e5c![d3596567093bc3e4d1df600dd1e09111](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/cd8cc8fd-76dc-4465-8525-86ce875370d9)
-b](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/fdaa296a-5fb6-453c-ac92-a12c5fa45aff)
-![f8e9e15322b6373740842a06ba9012ca](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/08a067f1-b92e-437a-a834-dab5ef34e07b)
-![908c4e6c99c396cd1a7700691b987516](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/471900ee-00c1-4d46-8b13-965ec5a554c6)
-![d3596567093bc3e4d1df600dd1e09111](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/ed8134e8-b1c0-416c-9e13-89cf4ffe88d8)
+![f1beb59c5dc9d2c8e4fd8644dc300556](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/b7060c3b-b61c-4a47-937d-a99a0e228a90)
+![908c4e6c99c396cd1a7700691b987516](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/8acfc6f1-1b3e-4dd1-91ca-29ae37a2d8fb)
+![d3596567093bc3e4d1df600dd1e09111](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/1343271a-4013-4bb4-96be-2b28335c78b9)
+![80e7df6ba5b2ce232ee593291203e5cb](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/1779c9ed-de3b-47ee-985b-15e206c51534)
