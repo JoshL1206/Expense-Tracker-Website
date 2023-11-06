@@ -14,6 +14,7 @@ To run this application, you need the following dependencies:
 - Python 3.7+
 - Django 3.2+
 - Plotly Express (for data visualization)
+- https://www.creative-tim.com/product/black-dashboard-pro-django/?AFFILIATE=52980 (Django theme that is used)
 
 ## Installation
 1. Clone the repository:
