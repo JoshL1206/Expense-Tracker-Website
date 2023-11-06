@@ -1,5 +1,5 @@
 ## Expense Tracker
-The Expense Tracker is a Django web application that allows users to track and manage their personal expenses. It provides various features for adding, editing, and visualizing expenses.
+The Expense Tracker is a Django web application that allows users to track and manage their expenses. It provides various features for adding, editing, and visualizing expenses.
 
 ## Features
 - Expense Tracking: Users can add, view, edit, and remove expenses by specifying the date, category, amount, description, and location.
@@ -44,7 +44,9 @@ Access the application in your web browser at http://localhost:8000.
 - Use the filter and sort options to customize your expense list.
 
 ## Screenshots
-![f1beb59c5dc9d2c8e4fd8644dc300556](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/b7060c3b-b61c-4a47-937d-a99a0e228a90)
-![908c4e6c99c396cd1a7700691b987516](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/8acfc6f1-1b3e-4dd1-91ca-29ae37a2d8fb)
-![d3596567093bc3e4d1df600dd1e09111](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/1343271a-4013-4bb4-96be-2b28335c78b9)
-![80e7df6ba5b2ce232ee593291203e5cb](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/1779c9ed-de3b-47ee-985b-15e206c51534)
+
+![Screenshot 2023-11-06 175233](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/76c981af-2554-420f-8e33-3b8b2bb7d533)
+![Screenshot 2023-11-06 175306](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/70e52a59-b59b-4773-8765-5ae31be86332)
+![Screenshot 2023-11-06 175312](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/fc341bdf-a14e-489e-a90b-cb5d7e2fc02a)
+![Screenshot 2023-11-06 175317](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/7e42cd6f-69ee-41c8-ab52-879fce5477d3)
+![Screenshot 2023-11-06 175320](https://github.com/JoshL1206/Expense-Tracker-Website/assets/110563327/3cc08d2f-629e-4a05-bd32-a04ee7ba3c8d)
