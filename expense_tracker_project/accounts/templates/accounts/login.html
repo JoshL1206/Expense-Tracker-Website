@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/black-dashboard.min.css' %}">
+</head>
+<body>
+    <h1>Login</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Login</button>
+    </form>
+    <p>Don't have an account? <a href="{% url 'signup' %}">Sign up here</a>.</p>
+
+    <script src="{% static 'js/black-dashboard.min.js' %}"></script>
+</body>
+</html>
+{% endblock %}

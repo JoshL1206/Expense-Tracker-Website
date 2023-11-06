@@ -1,0 +1,15 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/black-dashboard.min.css' %}">  {# Include the theme's CSS file #}
+
+  <h2>Register</h2>
+  <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Register</button>
+  </form>
+{% endblock %}
